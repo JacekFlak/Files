@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1513513522 source:c:\users\jacek\desktop\praca domowa 22222\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+	"Tplik.h"
+
+1513512256 c:\users\jacek\desktop\praca domowa 22222\include\tplik.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+
+1513513506 source:c:\users\jacek\desktop\praca domowa 22222\src\tplik.cpp
+	"Tplik.h"
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+
+1513523744 source:c:\users\jacek\desktop\jacek flak 3.2 program obs³uga pliku\src\tplik.cpp
+	"Tplik.h"
+	<iostream>
+	<conio.h>
+	<fstream>
+	<cstdio>
+
+1513522946 c:\users\jacek\desktop\jacek flak 3.2 program obs³uga pliku\include\tplik.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<cstdio>
+
+1513522368 source:c:\users\jacek\desktop\jacek flak 3.2 program obs³uga pliku\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<cstdio>
+	"Tplik.h"
+
+1513522368 source:c:\users\jacek\desktop\jacek flak 3.2 program obs³uga pliku\jacek flak 3.2 program obs³uga pliku\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<cstdio>
+	"Tplik.h"
+
+1513523790 c:\users\jacek\desktop\jacek flak 3.2 program obs³uga pliku\jacek flak 3.2 program obs³uga pliku\include\tplik.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<cstdio>
+
+1513545082 source:c:\users\jacek\desktop\programowanie obiektowe\jacek flak 3.2 program obs³uga pliku\jacek flak 3.2 program obs³uga pliku\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<cstdio>
+	"Tplik.h"
+
+1513523790 c:\users\jacek\desktop\programowanie obiektowe\jacek flak 3.2 program obs³uga pliku\jacek flak 3.2 program obs³uga pliku\include\tplik.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<cstdio>
+
+1514399111 source:c:\users\jacek\desktop\programowanie obiektowe\jacek flak 3.2 program obs³uga pliku\jacek flak 3.2 program obs³uga pliku\src\tplik.cpp
+	"Tplik.h"
+	<iostream>
+	<conio.h>
+	<fstream>
+	<cstdio>
+
